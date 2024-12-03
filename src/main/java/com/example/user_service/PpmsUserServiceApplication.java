@@ -9,6 +9,8 @@ public class PpmsUserServiceApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(PpmsUserServiceApplication.class, args);
+
+
     }
 
 }
